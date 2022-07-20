@@ -1,5 +1,9 @@
 # Random-Passsword-Generator
-Generating randow password based on the input you give(Number of integers to be used, Number of symbols to be included)
+Generating randow password based on the input you give(Number of integers to be used, Number of symbols to be included).
+
+Two functions are used,
+One to generate Easy Password: Using Easy_password function.
+Another to generate Hard Password: Using Hard_password function.
 
 Sample Output:
 
